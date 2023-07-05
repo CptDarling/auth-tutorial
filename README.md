@@ -100,3 +100,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Heads UP!
 
 [DOM Elements](https://legacy.reactjs.org/docs/dom-elements.html)
+
+> **⚠ Warning**
+>
+> Do not enable CORS for all routes in a production application. This can lead to security vulnerabilities.
