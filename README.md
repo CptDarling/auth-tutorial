@@ -19,6 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - [npm run build fails to minify](#npm-run-build-fails-to-minify)
   - [Links](#links)
     - [Tutorials](#tutorials)
+  - [Heads UP!](#heads-up)
 
 <!-- /TOC -->
 
@@ -93,5 +94,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Tutorials
 
-- [Setup a boilerplate React app](https://www.digitalocean.com/community/tutorials/how-to-manage-state-on-react-class-components#step-1-%E2%80%94-creating-an-empty-project)
+- [Setup a boilerplate React app](https://www.digitalocean.com/community/tutorials/how-to-manage-state-on-react-class-components)
 - [How To Add Login Authentication to React Applications](https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications)
+
+## Heads UP!
+
+[DOM Elements](https://legacy.reactjs.org/docs/dom-elements.html)
